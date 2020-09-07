@@ -12,7 +12,7 @@
    viewBox="0 0 572.02747 431.90039"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="isometric-smartphone.svg">
   <defs
      id="defs2">
@@ -251,16 +251,16 @@
      inkscape:window-maximized="0"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="728"
+     inkscape:window-height="716"
      inkscape:window-width="1350"
      showborder="true"
-     showgrid="false"
+     showgrid="true"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="542.03347"
-     inkscape:cx="1040.9863"
-     inkscape:zoom="0.24748737"
+     inkscape:cy="578.74121"
+     inkscape:cx="1131.5511"
+     inkscape:zoom="0.12374369"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -273,7 +273,8 @@
        units="px"
        spacingy="13.229167"
        id="grid1925"
-       type="axonomgrid" />
+       type="axonomgrid"
+       empspacing="5" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -385,13 +386,13 @@
       <text
          transform="skewY(30)"
          id="text1595"
-         y="2.5072861"
-         x="65.8172"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4804px;line-height:1.25;font-family:Broadway;-inkscape-font-specification:Broadway;fill:#ff0000;stroke-width:1.51673"
+         y="8.6751995"
+         x="40.161629"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.48040009px;line-height:1.25;font-family:Broadway;-inkscape-font-specification:Broadway;fill:#ff0000;stroke-width:1.51672995"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Broadway;-inkscape-font-specification:Broadway;fill:#ff0000;stroke-width:1.51673"
-           y="2.5072861"
-           x="65.8172"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Broadway;-inkscape-font-specification:Broadway;fill:#ff0000;stroke-width:1.51672995"
+           y="8.6751995"
+           x="40.161629"
            id="tspan1593"
            sodipodi:role="line">♥♥♥ </tspan></text>
     </g>
@@ -438,13 +439,13 @@
     <text
        transform="skewY(30)"
        id="text1599"
-       y="-136.76337"
-       x="79.892662"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4804px;line-height:1.25;font-family:Broadway;-inkscape-font-specification:Broadway;fill:#ff0000;stroke-width:1.51673"
+       y="-136.58096"
+       x="61.985603"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.48040009px;line-height:1.25;font-family:Broadway;-inkscape-font-specification:Broadway;fill:#ff0000;stroke-width:1.51672995"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Broadway;-inkscape-font-specification:Broadway;fill:#ff0000;stroke-width:1.51673"
-         y="-136.76337"
-         x="79.892662"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Broadway;-inkscape-font-specification:Broadway;fill:#ff0000;stroke-width:1.51672995"
+         y="-136.58096"
+         x="61.985603"
          id="tspan1597"
          sodipodi:role="line">♥♥♥ </tspan></text>
   </g>
